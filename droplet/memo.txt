@@ -1,0 +1,71 @@
+Ever tried connecting raindrops on a window as a kid?
+
+imm.rain embodies the Japanese idea of wabisabi (subdued refinement) in a simple game to help pass time while giving you something to think about after every round.
+
+Use your finger or tilt your iPhone to move the droplets around the screen to form a single raindrop. Once all the droplets have gathered into one, the frosted glass will clear, revealing the scenery and a quote. A new game will start after the raindrop has trickled off the screen.
+
+Realistic appearances and natural movements create a calm, relaxing atmosphere. You can even clear your mind by just gazing at the droplets slowly trickling off the screen.
+
+Take a break and forget about the worries of your everyday life by immersing yourself in the soothing world of imm.rain.
+
+Presented by Satoshi Nakajima and ZEPPELIN Inc.
+
+imm.rainの世界にボタンやリストは存在しません。何も考えず、ひたすら水滴が落ちるのを眺めるだけ、そんなimm.rainの世界に没頭しませんか？
+
+
+iPhoneを傾けることで、水滴が流れていく
+指で水滴を触ることもできる
+水滴がたった一つにまとまると、すりガラスの後ろの背景が見える
+すべての水滴が画面から消えると、新しい画面がスタートします。
+
+スキマ時間にちょっと暇つぶし
+でも、パズルやアクションゲームはなんだか疲れる。
+何も考えず、ひたすら水滴が落ちるのを眺めるだけの世界で、癒やされましょう。
+
+中島 聡 x Zeppelin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Imm.rain is a new category of application, which offers an altermate immersive experience enabled by the power of iOS7 and OpenGL.
+
+You can interact with imm.rain by touching the screen or tilt the device but it is not a game with a specific goal or scoring system. It's more like an interactive art.
+
+You can run it as a screen saver, when it's on the charging station, or interactive with it by touching the screen or tilting the device - in order to kill time, entertain yourself or meditate.
+
+It's all up to you. Enjoy!
+
+imm.rain は今までにないタイプのアプリケーションです。imm.rain の imm は immersive (没入型の)
+の imm です。iOS7のimmersiveな体験をさらに一歩先に進めたのが imm.rain です。
+
+imm.rain はゲームではありません。画面にタッチしたり、デバイスの傾きを変えたりして「遊ぶ」ことは出来ますが、ゲームのように特定のゴールや、ハイスコアを競う必要はありません。
+
+充電中にスクリーンセーバーとして楽しむことも出来るし、時間つぶしに遊んだり、瞑想にふけることも出来ます。
+
+
+
+Todo list:
+About page
+Auto restart
+Video recording
+
+
+
+Shadow mapping
+http://blog.shayanjaved.com/2011/05/20/android-opengl-es-2-0-shadow-mapping/

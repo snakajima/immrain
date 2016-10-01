@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>imm.rain</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>icon</string>
+		<string>icon-60</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.00</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.00</string>
+	<key>DropletImages</key>
+	<array>
+		<string>1111_photo_01</string>
+		<string>1111_photo_02</string>
+		<string>1111_photo_03</string>
+		<string>1111_photo_04</string>
+		<string>1111_photo_05</string>
+	</array>
+	<key>DropletQuotes</key>
+	<array>
+		<string>If you want the rainbow, you gotta put up with the rain.\nDolly Rebecca Parton</string>
+		<string>You’ll never find a rainbow if you’re looking down.\nCharlie Chaplin</string>
+		<string>I always like walking in the rain, so no one can see me crying.\nCharlie Chaplin</string>
+		<string>Some people feel the rain. Others just get wet.\nBob Marley</string>
+		<string>If you can dream it, you can do it.\nWalt Disney</string>
+		<string>Laughter is timeless. Imagination has no age. And dreams are forever.\nWalt Disney</string>
+		<string>Failure is simply the opportunity to begin again, this time more intelligently.\nHenry Ford</string>
+		<string>Time is the scarcest resource and unless it is managed nothing else can be managed.\nPeter Drucker</string>
+		<string>The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.\nPeter Drucker</string>
+		<string>Efficiency is doing things right; effectiveness is doing the right things.\nPeter Drucker</string>
+		<string>Until we're educating every kid in a fantastic way, until every inner city is cleaned up, there is no shortage of things to do.\nBill Gates</string>
+		<string>Life is not fair -- get used to it.\nBill Gates</string>
+		<string>If you want to make an apple pie from scratch, you must first create the universe.\nCarl Sagan</string>
+		<string>The first principle is that you must not fool yourself - and you are the easiest person to fool.\nRichard Feynman</string>
+		<string>Do not pray for easy lives. Pray to be stronger men.\nJohn F. Kennedy</string>
+		<string>The art challenges the technology, and the technology inspires the art.\nJohn Lasseter</string>
+		<string>Only when the tide goes out do you discover who's been swimming naked.\nWarren Buffett</string>
+		<string>Price is what you pay. Value is what you get.\nWarren Buffett</string>
+		<string>Someone's sitting in the shade today because someone planted a tree a long time ago.\nWarren Buffett</string>
+		<string>We simply attempt to be fearful when others are greedy and to be greedy only when others are fearful.\nWarren Buffett</string>
+		<string>The best customer service is if the customer doesn't need to call you, doesn't need to talk to you. It just works.\nJeff Bezos</string>
+		<string>Stay hungry, stay foolish.\nSteve Jobs</string>
+		<string>I want to put a ding in the universe.\nSteve Jobs</string>
+		<string>Design is not just what it looks like and feels like.\nDesign is how it works.\nSteve Jobs</string>
+		<string>The best way to predict the future is to invent it.\nAlan Kay</string>
+		<string>Life is a great big canvas.\nThrow all the paint on it you can.\nDanny Kaye</string>
+		<string>If I'd asked customers what they wanted, they would have said "a faster horse".\nHenry Ford</string>
+		<string>A person who never made a mistake never tried anything new.\nAlbert Einstein</string>
+		<string>Gravitation is not responsible for people falling in love.\nAlbert Einstein</string>
+		<string>The true sign of intelligence is not knowledge but imagination.\nAlbert Einstein</string>
+		<string>If you can't explain it simply, you don't understand it well enough.\nAlbert Einstein</string>
+		<string>Before God we are all equally wise - and equally foolish.\nAlbert Einstein</string>
+		<string>I believe life is a series of near misses. A lot of what we ascribe to luck is not luck at all. It's seizing the day and accepting responsibility for your future. It's seeing what other people don't see And pursuing that vision.\nHoward Schultz</string>
+	</array>
+	<key>DropletQuotes.old</key>
+	<array>
+		<string>There are no road signs to help navigate. And, in fact, no one has yet determined which side of the road we're supposed to be on.\nSteve Case</string>
+		<string>Great CEOs are not just born with shiny hair and a tie.\nMarc Andreessen</string>
+		<string>The most important thing in communication is hearing what isn't said.\nPeter Drucker</string>
+		<string>Effective leadership is not about making speeches or being liked; leadership is defined by results not attributes.\nPeter Drucker</string>
+		<string>Intellectual property has the shelf life of a banana.\nBill Gates</string>
+		<string>We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.\nCarl Sagan </string>
+		<string>We are at the very beginning of time for the human race. It is not unreasonable that we grapple with problems. But there are tens of thousands of years in the future. Our responsibility is to do what we can, learn what we can, improve the solutions, and pass them on.\nRichard Feynman</string>
+		<string>When a man cannot choose, he ceases to be a man.\nStanley Kubrick</string>
+		<string>I discovered that if one looks a little closer at this beautiful world, there are always red ants underneath.\nDavid Lynch</string>
+		<string>Change is the law of life. And those who look only to the past or present are certain to miss the future.\nJohn F. Kennedy</string>
+		<string>I strongly believe that missionaries make better products. They care more. For a missionary, it's not just about the business. There has to be a business, and the business has to make sense, but that's not why you do it. You do it because you have something meaningful that motivates you.\nJeff Bezos</string>
+		<string>We keep moving forward, opening new doors, and doing new things, because we're curious and curiosity keeps leading us down new paths.\nWalt Disney</string>
+		<string>The more you like yourself, the less you are like anyone else, which makes you unique.\nWalt Disney</string>
+		<string>All our dreams can come true, if we have the courage to pursue them.\nWalt Disney</string>
+		<string>You can't connect the dots looking forward; you can only connect them looking backwards.\nSo you have to trust that the dots will somehow connect in your future.\nYou have to trust in something - your gut, destiny, life, karma, whatever.\nThis approach has never let me down, and it has made all the difference in my life.\nSteve Jobs</string>
+	</array>
+	<key>DropletQuotes2</key>
+	<array>
+		<string>Foo</string>
+		<string>You can't connect the dots looking forward; you can only connect them looking backwards.\nSo you have to trust that the dots will somehow connect in your future.\nYou have to trust in something - your gut, destiny, life, karma, whatever.\nThis approach has never let me down, and it has made all the difference in my life.\nSteve Jobs</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIApplicationExitsOnSuspend</key>
+	<true/>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
